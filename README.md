@@ -8,7 +8,7 @@ Here you can see some projects that I have been developing.
 ![predicciones_R](https://user-images.githubusercontent.com/110078021/181821297-612c566b-7c9d-4da3-b64d-ca77f631ca85.PNG)
 # Projections Data Visualizations
 ![data_analytics](https://user-images.githubusercontent.com/110078021/181821367-f72e335f-6eb6-4c04-9d52-510c9e624560.PNG)
-#Frecuency of shisha smoking
+# Frecuency of shisha smoking
 ![cap1](https://user-images.githubusercontent.com/110078021/204342509-eb3152ff-2af5-4cde-ab51-4cef619d0cbb.PNG)
 # Initial place where begun shisha smoking
 ![cap2](https://user-images.githubusercontent.com/110078021/204342979-84b01d55-aa15-4bca-8325-4ae8cdd94864.PNG)
