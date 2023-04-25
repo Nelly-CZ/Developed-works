@@ -2,6 +2,7 @@
 Here you can see some projects that I have been developing.
 # Reports
 ![Informe](https://user-images.githubusercontent.com/110078021/181820444-79a1e88c-8679-4907-bed1-9da6e4f8916c.PNG)
+![reporteEstímulos](https://user-images.githubusercontent.com/110078021/234431229-0ad6eeab-26c6-4129-a8af-d8a54b79ef76.PNG)
 # Bar Data Visualization
 ![Viz_Bars](https://user-images.githubusercontent.com/110078021/181820778-c0efa225-5ada-4846-82e1-c25653584e2e.PNG)
 # Predicctions with R
