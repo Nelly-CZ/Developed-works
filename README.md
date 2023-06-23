@@ -1,6 +1,7 @@
 # Developed-works
 Here you can see some projects that I have been developing.
 # Reports
+![venta_informe](https://github.com/Nelly-CZ/Developed-works/assets/110078021/8c54bcb1-49b9-4599-a590-9823784ffb81)
 ![Informe](https://user-images.githubusercontent.com/110078021/181820444-79a1e88c-8679-4907-bed1-9da6e4f8916c.PNG)
 ![reporteEstímulos](https://user-images.githubusercontent.com/110078021/234431229-0ad6eeab-26c6-4129-a8af-d8a54b79ef76.PNG)
 # Bar Data Visualization
